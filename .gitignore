@@ -1,0 +1,23 @@
+# Virtual environment
+env/
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+vector_db/
+test.py
+
+
+# Environment variables
+.env
+credentials.json
