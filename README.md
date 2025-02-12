@@ -50,8 +50,8 @@ query = f"label:inbox after:{date_n_days_ago}"
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/AskMyMail.git
-cd AskMyMail
+git clone https://github.com/saileshdwivedy30/Ask-My-Mail.git
+cd Ask-My-Email
 ```
 
 ### 2️⃣ Set Up a Virtual Environment
