@@ -6,6 +6,13 @@
 
 🔍 Uses **Gmail API, LangChain, ChromaDB, and DeepSeek R1 14B (via Ollama)** for intelligent email retrieval & responses.
 
+---
+
+## 📸 Video Demo 
+📌 *Video Demo of the system:* [Link](https://www.youtube.com/watch?v=3kpnK6ljzY8) 
+
+---
+
 By default, AskMyEmail only accesses promotional emails to protect your email privacy. This is controlled by the following query in fetch_promotion_emails function:
 ```bash
 query = f"label:promotions after:{date_n_days_ago}"
@@ -77,11 +84,6 @@ streamlit run app.py
 4️⃣ **Generate Answers** – Uses **LangChain Prompt Templates** and **DeepSeek 14B (via Ollama)** to generate AI-powered responses.  
 
 ![img.png](AskMyEmail.png)
-
----
-
-## 📸 Demo 
-📌 *Video Demo of the system:* [Link]() 
 
 ---
 
