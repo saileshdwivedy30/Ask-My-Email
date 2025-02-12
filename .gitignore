@@ -16,6 +16,8 @@ __pycache__/
 
 vector_db/
 test.py
+.idea/
+
 
 
 # Environment variables
