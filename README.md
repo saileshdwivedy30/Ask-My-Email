@@ -3,6 +3,7 @@
 # 📨 AskMyEmail : AI-Powered RAG Assistant  
 
 🚀 Retrieve, analyze, and chat with your emails using an AI-powered **Retrieval-Augmented Generation (RAG)** chatbot.  
+
 🔍 Uses **Gmail API, LangChain, ChromaDB, and DeepSeek R1 14B (via Ollama)** for intelligent email retrieval & responses.
 
 By default, AskMyEmail only accesses promotional emails to protect your email privacy. This is controlled by the following query in fetch_promotion_emails function:
