@@ -29,7 +29,7 @@ query = f"label:inbox after:{date_n_days_ago}"
 ---
 
 ## 🛠️ Tech Stack
-- **Python** 🐍  
+- **Python**
 - **Streamlit** (UI)  
 - **LangChain** (for embeddings, text processing, and LLM pipeline)  
 - **ChromaDB** (for document retrieval)  
