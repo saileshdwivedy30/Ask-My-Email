@@ -4,7 +4,7 @@
 
 🚀 Retrieve, analyze, and chat with your emails using an AI-powered **Retrieval-Augmented Generation (RAG)** chatbot.  
 
-🔍 Uses **Gmail API, LangChain, ChromaDB, and DeepSeek R1 14B (via Ollama)** for intelligent email retrieval & responses.
+🔍 Uses **Gmail API, Beautiful Soup, LangChain, ChromaDB, and DeepSeek R1 14B (via Ollama)** for intelligent email retrieval & responses.
 
 ---
 
