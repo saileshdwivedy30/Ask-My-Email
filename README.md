@@ -1,6 +1,6 @@
 
 
-# 📨 AskMyEmail : DeepSeek AI-Powered RAG Assistant  
+# 📨 AskMyEmail : DeepSeek AI-Powered Email RAG Chatbot  
 
 🚀 Retrieve, analyze, and chat with your emails using an AI-powered **Retrieval-Augmented Generation (RAG)** chatbot.  
 
